@@ -1,23 +1,19 @@
 a {
   color: green;
 }
-body
+body,main
 {
   display: flex;
-  flex-direction: column
 }
 main
 {
-  display: flex;
   flex: auto
 }
 aside
 {
-  display: flex;
   flex: 1
 }
 article
 {
-  display: flex;
   flex: 3
 }

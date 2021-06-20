@@ -7,14 +7,17 @@ body,main
 }
 main
 {
+    display: flex;
   flex: auto
 }
 aside
 {
-  flex: 3
+    display: flex;
+  flex: 2
 }
 article
 {
-  flex: 6
+    display: flex;
+  flex: 5
 }
 

@@ -17,3 +17,7 @@ article
 {
   flex: 3
 }
+img {
+  class="small"
+  id="smart-image"
+}

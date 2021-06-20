@@ -11,10 +11,10 @@ main
 }
 aside
 {
-  flex: 1
+  flex: 3
 }
 article
 {
-  flex: 3
+  flex: 6
 }
 

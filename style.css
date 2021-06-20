@@ -4,6 +4,7 @@ a {
 body,main
 {
   display: flex;
+  justify-content: space-between
 }
 main
 {
